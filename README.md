@@ -1,8 +1,8 @@
-# Quiz - HTML Fundamentals
+# Quiz - HTML Basics
 
 ???
 
-# HTML Fundamentals
+# HTML Basics
 
 ?: The ________ displays data that is provided to it by the server.
 
